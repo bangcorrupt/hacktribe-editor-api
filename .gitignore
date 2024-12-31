@@ -1,0 +1,10 @@
+__pycache__
+dist/
+*.VSB
+*.e2pat
+*.e2spat
+*.bin
+*.log
+*.hxt
+*.bmp
+*.vim
