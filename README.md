@@ -1,2 +1,3 @@
-# hacktribe-editor-api
-An API for editing Hacktribe.
+# Hacktribe Editor API
+
+An attempt at organising all the disparate scripts and MIDI functions used for controlling and editing Hacktribe.
